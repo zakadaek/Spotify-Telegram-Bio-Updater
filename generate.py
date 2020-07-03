@@ -1,4 +1,3 @@
-import requests
 import json
 from constants import CLIENT_SECRET, CLIENT_ID, INITIAL_BIO, INITIAL_TOKEN
 body = {"client_id": CLIENT_ID, "client_secret": CLIENT_SECRET,
